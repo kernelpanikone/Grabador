@@ -1,4 +1,3 @@
-# Grabador
 import mss
 import numpy as np
 import threading
